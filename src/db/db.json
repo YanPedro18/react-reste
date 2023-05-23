@@ -1,0 +1,7 @@
+{
+    "posts": [
+      { "id": 1, "title": "Trilhas de etapas", "content":"Crie planos de estudos especificando aulas e/ou cursos e definindo a ordem que seus alunos devem estudar.", "image": "../public/icon-trilhas.png"},
+      { "id": 2, "title": "Playlists", "content": "Transforme uma coleção em uma playlist para poder ver vídeos e áudios em sequência offline.", "image": "../public/icon-playlists.png"  },
+      { "id": 3, "title": "Coleções", "content": "Crie coleções, adicione conteúdos, reorganize ítens e deixe tudo do seu jeito para melhorar a experiência.", "image": "../public/icon-folder.png"  }
+    ]
+  }
